@@ -6,13 +6,13 @@
 Jesús Gómez García
 
 ## Introducción
-Infokédex será una página web diseñada como una Pokédex interactiva, que recopilará información detallada sobre los más de 1000 Pokémon existentes. Incluirá datos como su apariencia, hábitat, estadísticas y evoluciones. Contará con un buscador que permitirá filtrar Pokémon por nombre, tipo o posición en su cadena evolutiva. Además, ofrecerá un minijuego similar a Wordle, en el que los usuarios deberán adivinar un Pokémon específico a partir de pistas.
+Infokédex será una página web diseñada como una Pokédex interactiva, que recopilará información detallada sobre los más de 1000 Pokémon existentes. Incluirá datos como su apariencia, estadísticas y evoluciones. Contará con un buscador que permitirá filtrar Pokémon por nombre, tipo o posición en su cadena evolutiva. Además, ofrecerá un minijuego similar a Wordle, en el que los usuarios deberán adivinar un Pokémon específico a partir de pistas.
 
 ## Finalidad
-Infokédex tendrá varias finalidades, como proporcionar información detallada a los jugadores, facilitar la introducción al mundo de los Pokémon para nuevos usuarios y servir como una herramienta educativa y de entretenimiento.
+Infokédex tendrá varias finalidades, como proporcionar información detallada a los jugadores, facilitar la introducción al mundo de los Pokémon para nuevos usuarios y servir como una herramienta educativa y de entretenimiento para todos los usuarios interesados en los Pokémon.
 
 ## Objetivos
-El desarrollo de este proyecto me permitirá mejorar mis conocimientos. Además, busca superar el nivel del proyecto "Juego Tierra Media" de DWES, brindándome un desafío individual.
+El desarrollo de este proyecto me permitirá mejorar mis conocimientos. La realización de este proyecto será mucho más díficil que la de "Juego Tierra Media" de DWES, ya que es un proyecto en solitario. Esto me brindará un desafío individual.
 
 ## Medios Hardware y Software a Utilizar
 Los recursos que utilizaré serán los siguientes:
